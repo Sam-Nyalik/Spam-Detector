@@ -1,3 +1,5 @@
+![alt text](https://www.comodo.com/business-security/email-security/spam-detector-online.php?raw=true)
+
 # Spam-Detector
 This is a spam detector built with Python
 
