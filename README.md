@@ -1,4 +1,4 @@
-![alt text](https://www.comodo.com/business-security/email-security/spam-detector-online.php?raw=true)
+![alt text](https://imgs.search.brave.com/MBji8zRsXplWgqrPdXdPlqvmsY9CDj1J04iM20mhet0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/Y29tb2RvLmNvbS9p/bWFnZXMvc3BhbS1k/ZXRlY3Rvci1vbmxp/bmUucG5n?raw=true)
 
 # Spam-Detector
 This is a spam detector built with Python
